@@ -1,0 +1,52 @@
+keywords: Key shortcut
+
+This was created in 07/11/2024 with the idea to get 
+some tests in order to find the best way to start my project.
+This will be used as a diary to my tests.
+
+I made the first test using makingcommandKeyboarddealer.py
+
+but it doesn't seem to fit my objectives, it seems shell
+is more flexible and less rebuscado (see translation to english).
+
+then I started makingcommandKeyboarddealer.sh making a similar 
+propose.
+
+...
+
+I stumble in a wall, because I couldnÂ't figure out how to make such a
+Key Shortcut.
+
+then I had this simple idea:
+- get a pyhton script to record my keyword inputs
+- if some keys are pressed at same time, then it would make something 
+happen
+
+then I came back to makingcommandKeyboarddealer.py
+this endded up to be the final solution.
+Now it seems that we will have to create the following table:
+
+| key_combination | function that is activated |
+|  list           |  signifier                 |
+
+
+Now, I found AutoHotkey tecnoÃlogy, it seems very great to use.
+https://www.autohotkey.com
+
+the file createHotkey.ahk was done once again.
+
+foi um sucesso completo!! Desta forma concluÃ­mos que a melhor maneira
+Ã© usando createHotkey.ahk
+
+Agora vamos fazer uma research baseada para estudar autohotkey.
+
+
+Yes I changed my language. No I will not redo this... go to google
+translate.
+
+so now I know how to make a AutoHotkey Script able to get hotkeys
+and then run a python file using the Syntaxe 
+
+> run, %PATH%
+
+(reference: https://www.youtube.com/watch?v=h5dtQSN6IOQ&list=PLXXz88_TPiHrrXlvIZItayrjQ9Xs_mcxZ&index=6)

@@ -1,0 +1,1 @@
+#n::Run "cmd.exe"
