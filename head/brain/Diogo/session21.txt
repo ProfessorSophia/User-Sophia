@@ -1,0 +1,23 @@
+-----------------------------------
+  Session 21 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é o teu nome?"
+  R"Diogo"
+  
+-----------------------------------
+  Session 21 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Duvida before substitution: Qual é ...?
+Relativo: teu
+Absoluto: número
+Replacement: teu número
+Result before appending: Qual é ?
+Final output: Qual é ?teu número
+Qual é ?teu número"
+  R"[A[B[A[BXau"
+  

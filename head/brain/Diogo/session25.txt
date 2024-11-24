@@ -1,0 +1,34 @@
+-----------------------------------
+  Session 25 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é o teu nome?"
+  R"Diogo"
+  
+-----------------------------------
+  Session 25 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Duvida before substitution: Qual é ...?
+Relativo: teu
+Absoluto: número"
+  R"[A[BXau"
+  
+-----------------------------------
+  Session 25 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Duvida before substitution: Qual é ...?
+Relativo: teu
+Absoluto: número"
+  R"[A[BXau"
+  
+-----------------------------------
+  Session 25 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Duvida before substitution: Qual é ...?
+Relativo: teu
+Absoluto: número"
+  R"Xay"
+  

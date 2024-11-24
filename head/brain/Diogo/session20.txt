@@ -1,0 +1,189 @@
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é o teu nome?"
+  R"Diogo"
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R"[A[BXau"
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R"[A[BXau"
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
+-----------------------------------
+  Session 20 2024-11-24   Diogo
+  -----------------------------------
+
+  Q"Qual é ...?
+teu
+número
+Replacement: teu número
+Duvida before substitution: Qual é ...?
+Result: Qual é ?
+Final output: Qual é teu número?"
+  R""
+  
