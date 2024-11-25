@@ -1,4 +1,7 @@
 # User-Sophia
+
+# Introduction
+
 This is a project to automate routines used in personal 
 research and secretary, meant to be complementary to other softwares.
 
@@ -24,25 +27,5 @@ make a pretty visualizer to this mess.
 
 by: ProfessorSophia
 
-# Basic Structure 
+# Basic Structure
 
--- File Path
-
-- info.txt
-
-with basic information in txt format
-
-- Python init.py
-
-in the beging of this file i would have:
-
-> #!/usr/bin/env python3
-
-this file should be process using:
-
-> chmod +x python.py
-
-the content of the file should run the autohotkeys necessary
-porpouse of usage:
-
-> ./init.py

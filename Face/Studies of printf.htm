@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 24.8.3.2 (Windows)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="00:00:00"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
+		pre { background: transparent }
+		pre.western { font-family: "Liberation Mono", monospace; font-size: 10pt }
+		pre.cjk { font-family: "NSimSun", monospace; font-size: 10pt }
+		pre.ctl { font-family: "Liberation Mono", monospace; font-size: 10pt }
+	</style>
+</head>
+<body lang="pt-PT" link="#000080" vlink="#800000" dir="ltr"><pre class="western">PRINTF(1)                      User Commands                      PRINTF(1)<br/>
+<br/>
+NAME<br/>
+       printf - format and print data<br/>
+<br/>
+SYNOPSIS<br/>
+       printf FORMAT [ARGUMENT]...<br/>
+       printf OPTION<br/>
+<br/>
+DESCRIPTION<br/>
+       Print  ARGUMENT(s)  according to FORMAT, or execute according to OP-<br/>
+       TION:<br/>
+<br/>
+       --help display this help and exit<br/>
+<br/>
+       --version<br/>
+              output version information and exit<br/>
+<br/>
+       FORMAT controls the output as in C  printf.   Interpreted  sequences<br/>
+       are:<br/>
+<br/>
+       \&quot;     double quote<br/>
+<br/>
+       \\     backslash<br/>
+<br/>
+       \a     alert (BEL)<br/>
+<br/>
+       \b     backspace<br/>
+<br/>
+       \c     produce no further output<br/>
+<br/>
+       \e     escape<br/>
+<br/>
+       \f     form feed<br/>
+<br/>
+       \n     new line<br/>
+<br/>
+       \r     carriage return<br/>
+<br/>
+       \t     horizontal tab<br/>
+<br/>
+       \v     vertical tab<br/>
+<br/>
+       \NNN   byte with octal value NNN (1 to 3 digits)<br/>
+<br/>
+       \xHH   byte with hexadecimal value HH (1 to 2 digits)<br/>
+<br/>
+       \uHHHH Unicode (ISO/IEC 10646) character with hex value HHHH (4 dig-<br/>
+              its)<br/>
+<br/>
+       \UHHHHHHHH<br/>
+              Unicode character with hex value HHHHHHHH (8 digits)<br/>
+<br/>
+       %%     a single %<br/>
+<br/>
+       %b     ARGUMENT  as  a  string  with '\' escapes interpreted, except<br/>
+              that octal escapes are of the form \0 or \0NNN<br/>
+<br/>
+       %q     ARGUMENT is printed in a format that can be reused  as  shell<br/>
+              input,  escaping  non-printable  characters with the proposed<br/>
+              POSIX $'' syntax.<br/>
+<br/>
+       and all C format specifications ending with  one  of  diouxXfeEgGcs,<br/>
+       with  ARGUMENTs converted to proper type first.  Variable widths are<br/>
+       handled.<br/>
+<br/>
+       NOTE: your shell may have its own version of printf,  which  usually<br/>
+       supersedes the version described here.  Please refer to your shell's<br/>
+       documentation for details about the options it supports.<br/>
+<br/>
+AUTHOR<br/>
+       Written by David MacKenzie.<br/>
+<br/>
+REPORTING BUGS<br/>
+       GNU coreutils online help: &lt;https://www.gnu.org/software/coreutils/&gt;<br/>
+       Report    any    translation    bugs   to   &lt;https://translationpro-<br/>
+       ject.org/team/&gt;<br/>
+<br/>
+COPYRIGHT<br/>
+       Copyright (C) 2020 Free Software Foundation, Inc.   License  GPLv3+:<br/>
+       GNU GPL version 3 or later &lt;https://gnu.org/licenses/gpl.html&gt;.<br/>
+       This  is  free software: you are free to change and redistribute it.<br/>
+       There is NO WARRANTY, to the extent permitted by law.<br/>
+<br/>
+SEE ALSO<br/>
+       printf(3)<br/>
+<br/>
+       Full documentation &lt;https://www.gnu.org/software/coreutils/printf&gt;<br/>
+       or available locally via: info '(coreutils) printf invocation'<br/>
+<br/>
+GNU coreutils 8.32             November 2022                      PRINTF(1)<br/>
+</pre>
+</body>
+</html>
